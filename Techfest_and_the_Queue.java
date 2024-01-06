@@ -1,3 +1,10 @@
+class Techfest_and_the_Queue{
+    public static void main (String args[]){
+        Solution obj = new Solution();
+        System.out.println(obj.sumOfPowers(2,10));
+    }
+}
+
 class Solution {
     public static long sumOfPowers(long a, long b) {
         // code here
